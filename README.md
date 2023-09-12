@@ -12,7 +12,7 @@
 
 ## 🏆 Contribution Streak
 
-![Your contribution streak](https://github-readme-streak-stats.herokuapp.com/?user=thomaMimani&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thomaMimani&theme=dark)](https://git.io/streak-stats)
 
 ## 🛠️ Technologies & Tools
 
