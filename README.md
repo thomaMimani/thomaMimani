@@ -1,4 +1,4 @@
-# [Your Name]'s GitHub Profile 👋
+# Thoma Mimani's GitHub Profile 👋
 
 ## About Me
 
@@ -8,11 +8,11 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=thomaMimani&show_icons=true&theme=radical)
 
 ## 🏆 Contribution Streak
 
-![Your contribution streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![Your contribution streak](https://github-readme-streak-stats.herokuapp.com/?user=thomaMimani&theme=radical)
 
 ## 🛠️ Technologies & Tools
 
