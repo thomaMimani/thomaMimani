@@ -23,5 +23,4 @@
 ## 📫 How to reach me
 
 - LinkedIn: [thomamimani](https://www.linkedin.com/in/thomamimani/)
-- Email: mimani.thoma@example.com
-
+- Email: mimani.thoma@gmail.com
