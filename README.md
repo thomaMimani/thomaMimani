@@ -8,7 +8,7 @@
 
 ## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaMimani&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaMimani&hide=html,css,blade,scss&langs_count=10&layout=compact&theme=radical)
 
 ## 🏆 Contribution Streak
 
