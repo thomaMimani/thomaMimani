@@ -6,7 +6,7 @@
 🌱 I'm on a journey to become a great programmer and enhance my skills in computer science.  
 🔭 I'm not just looking to master React, but also to build a solid foundation in computer science.
 
-## 📈 GitHub Stats
+## 🧠 Tech Stack
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaMimani&hide=html,css,blade,scss&langs_count=10&layout=compact&theme=radical)
 
